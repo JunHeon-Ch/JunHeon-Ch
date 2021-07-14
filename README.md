@@ -7,9 +7,8 @@
 
 
 
-### Profile  
-- #### I'm Junheon Choi, a back-end developer 👨‍💻 
-A student of dept.software at Gachon univ (4th grade) 🚀  
+## Profile  
+#### I'm Junheon Choi, a back-end developer 👨‍💻 and a student of dept.software at Gachon univ (4th grade) 🚀  
   
 
 
