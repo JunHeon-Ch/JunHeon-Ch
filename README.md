@@ -1,14 +1,5 @@
-
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-
-
 ## Profile  
-#### I'm Junheon Choi, a back-end developer 👨‍💻 and a student of dept.software at Gachon univ (4th grade) 🚀  
+#### I'm Junheon Choi, a back-end developer 👨‍💻 and a student of software dept at Gachon univ (4th grade) 🚀
   
 
 
