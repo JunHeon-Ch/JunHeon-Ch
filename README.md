@@ -1,5 +1,5 @@
 ## Profile  
-#### I'm Junheon Choi, a back-end developer 👨‍💻 and a student of software dept at Gachon univ (4th grade) 🚀
+- I'm Junheon Choi, a back-end developer 👨‍💻 and a student of software dept at Gachon univ (4th grade) 🚀
   
 
 
