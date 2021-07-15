@@ -8,10 +8,10 @@
 - Current</br>👨‍👨‍👧‍👧 [Gachon AISW Community/AISW 정보 공유 및 소통 커뮤니티](https://github.com/JunHeon-Ch/AISW_Web_Community) (Spring Boot, Spring Security, OAuth 2.0, Maria DB, Redis, querydsl, React, Javascript, JSX, CSS)  
   
 
-- 2020</br>👖 [OurCloset Appication/공유옷장 애플리케이션](https://github.com/JunHeon-Ch/Mobile_OurCloset) (Android, Firebase, OpenCV)</br>💰 [Bank Marketing Analysis/은행 마케팅 예측](https://github.com/JunHeon-Ch/DataScience_Bank_Marketing_Analysis) (Python)</br>🚖 [Drive License Simulation/운전 면허 연습 게임](https://github.com/JunHeon-Ch/Driver_License_Simulation) (WebGL, JavaScrpit)</br>🚊 [Rail Fall Detection System/선로 추락 감지 시스템](https://github.com/JunHeon-Ch/Rail_Fall_Prevention_System) (Edge computing, jetson nano, Ubuntu, Python, YOLOv4, TensorRT, OpenCV, Android, Firebase)  
+- 2020</br>👖 [OurCloset Appication/공유옷장 애플리케이션](https://github.com/JunHeon-Ch/Mobile_OurCloset) (Android, Firebase, OpenCV)</br>💰 [Bank Marketing Analysis/은행 마케팅 예측](https://github.com/JunHeon-Ch/DataScience_Bank_Marketing_Analysis) (Python)</br>🚖 [Drive License Simulation/운전 면허 연습 게임](https://github.com/JunHeon-Ch/Driver_License_Simulation) (WebGL, JavaScrpit)</br>🚊 [Rail Fall Detection System/선로 추락 감지 시스템](https://github.com/JunHeon-Ch/Rail_Fall_Prevention_System) (Edge computing, jetson nano, Ubuntu, Python, YOLOv4, TensorRT, OpenCV, Android, Firebase)
   
 
-- 2021</br>  
+- 2021</br>🖼️ [Image Denosing using U-Net](https://github.com/JunHeon-Ch/Image_Denoising_UNet) (PyTorch)
   
 
 
@@ -31,7 +31,6 @@
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
@@ -62,11 +61,10 @@
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>
 
 </td></tr></table>  
