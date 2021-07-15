@@ -1,10 +1,10 @@
-### Profile  
+## Profile  
 #### I'm Junheon Choi, a back-end developer 👨‍💻 and a student of software dept at Gachon univ (4th grade) 🚀
   
 
 
 
-### Project  
+>### Project  
 - Current</br>👨‍👨‍👧‍👧 [Gachon AISW Community/AISW 정보 공유 및 소통 커뮤니티](https://github.com/JunHeon-Ch/AISW_Web_Community) (Spring Boot, Spring Security, OAuth 2.0, Maria DB, Redis, querydsl, React, Javascript, JSX, CSS)  
   
 
@@ -16,7 +16,7 @@
 
 
 
-### Interest  
+>### Interest  
 - 🌱 Web programming, Machine learning, Deep learning  
   
 
