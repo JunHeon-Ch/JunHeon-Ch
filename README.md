@@ -17,7 +17,7 @@
 
 
 >### Interest  
-- 🌱 Web programming, Machine learning, Deep learning  
+- 🌱 Spring Boot, Android, DevOps
   
 
 <br/>  
