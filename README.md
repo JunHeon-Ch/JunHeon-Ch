@@ -11,14 +11,8 @@
 - 2021</br>🖼️ [Image Denosing using U-Net](https://github.com/JunHeon-Ch/Image_Denoising_UNet) (PyTorch)
 
 - 2020</br>
-🚊 [Rail Fall Detection System/선로 추락 감지 시스템](https://github.com/JunHeon-Ch/Rail_Fall_Prevention_System) (Edge computing, jetson nano, Ubuntu, Python, YOLOv4, TensorRT, OpenCV, Android, Firebase)
-</br>
-👖 [OurCloset Appication/공유옷장 애플리케이션](https://github.com/JunHeon-Ch/Mobile_OurCloset) (Android, Firebase, OpenCV)
-</br>
-💰 [Bank Marketing Analysis/은행 마케팅 예측](https://github.com/JunHeon-Ch/DataScience_Bank_Marketing_Analysis) (Python)
-</br>
-🚖 [Drive License Simulation/운전 면허 연습 게임](https://github.com/JunHeon-Ch/Driver_License_Simulation) (WebGL, JavaScrpit)
-</br>
+🚊 [Rail Fall Detection System/선로 추락 감지 시스템](https://github.com/JunHeon-Ch/Rail_Fall_Prevention_System) (Edge computing, jetson nano, Ubuntu, Python, YOLOv4, TensorRT, OpenCV, Android, Firebase)</br>👖 [OurCloset Appication/공유옷장 애플리케이션](https://github.com/JunHeon-Ch/Mobile_OurCloset) (Android, Firebase, OpenCV)</br>💰 [Bank Marketing Analysis/은행 마케팅 예측](https://github.com/JunHeon-Ch/DataScience_Bank_Marketing_Analysis) (Python)
+</br>🚖 [Drive License Simulation/운전 면허 연습 게임](https://github.com/JunHeon-Ch/Driver_License_Simulation) (WebGL, JavaScrpit)</br>
     
 
 
